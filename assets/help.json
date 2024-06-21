@@ -1,0 +1,33 @@
+{
+  "1": {
+   "key": "Read",
+    "dis": "It will read the text from the capture image "
+  },
+  "2": {
+    "key":"Calculator",
+    "dis": "it will calculator the number .you have to start command with number "
+  },
+"3": {
+
+  "key":"Location",
+  "dis":"It will tell you the current location of you depending upon the latitude and longititude"
+},
+"4": {
+
+  "key":"Battery",
+  "dis": "It will tell you the current battery percentage"
+},
+  "5":{
+    "key":"Date and time",
+    "dis": " current date and time with format of "
+},
+  "6":{
+    "key":"Audio",
+    "dis": " it will paly the recorded  audio as you want "
+},
+  "7":{
+    "key":"Recoding",
+    "dis": "to recode the audio in home page or commanfd page pressed volume up key and to stop the recording volume down key"
+}
+
+}
